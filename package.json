@@ -1,0 +1,13 @@
+{
+  "name": "spawn-server",
+  "version": "1.0.1",
+  "description": "spawns a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": {
+    "name": "Vadim Ogievetsky",
+    "url": "http://vadim.ogievetsky.com"
+  }
+}
