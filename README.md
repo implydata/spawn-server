@@ -15,4 +15,4 @@ spawnServer supports the following options:
 
 **env**: variables to add to the process's environment
 
-**verbose**: prints out standard stream info from the process
+**verbose**: true/false, if you want print outs of the process's standard stream info
