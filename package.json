@@ -2,12 +2,18 @@
   "name": "spawn-server",
   "version": "1.0.1",
   "description": "spawns a server",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "compile": "tsc"
   },
   "author": {
     "name": "Vadim Ogievetsky",
     "url": "http://vadim.ogievetsky.com"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.2",
+    "typescript": "^3.4.5"
   }
 }
