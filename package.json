@@ -1,6 +1,6 @@
 {
   "name": "node-spawn-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "spawns a server",
   "main": "dist/index.js",
   "scripts": {
